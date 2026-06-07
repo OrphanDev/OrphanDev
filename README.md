@@ -63,10 +63,10 @@
 <!-- REEMPLAZA 'tu-usuario' con tu nombre real de GitHub para activar las estadísticas -->
 <div align="center">
   <a href="https://github.com/OrphanDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=en&theme=dark" alt="Estadísticas de GitHub" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OrphanDev&show_icons=true&locale=en&theme=dark" alt="Estadísticas de GitHub" height="150px" />
   </a>
   <a href="https://github.com/OrphanDev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark" alt="Racha de contribuciones" height="150px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrphanDev&theme=dark" alt="Racha de contribuciones" height="150px" />
   </a>
 </div>
 
@@ -86,8 +86,8 @@
 <!-- Botones de contacto de Shields.io -->
 <p align="center">
   <a href="mailto:tu-correo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/OrphanDev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/OrphanDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <!-- CONTADOR DE VISTAS DE PERFIL: Reemplaza 'tu-usuario' -->
