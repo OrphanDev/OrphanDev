@@ -62,10 +62,10 @@
 
 <!-- REEMPLAZA 'tu-usuario' con tu nombre real de GitHub para activar las estadísticas -->
 <div align="center">
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/OrphanDev">
     <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&locale=en&theme=dark" alt="Estadísticas de GitHub" height="150px" />
   </a>
-  <a href="https://github.com/tu-usuario">
+  <a href="https://github.com/OrphanDev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=dark" alt="Racha de contribuciones" height="150px" />
   </a>
 </div>
@@ -76,7 +76,7 @@
 
 <!-- REEMPLAZA 'tu-usuario' con tu nombre real de GitHub -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tu-usuario&show_icons=true&locale=en&layout=compact&theme=dark" alt="Lenguajes más usados" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrphanDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="Lenguajes más usados" height="150px" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 <!-- CONTADOR DE VISTAS DE PERFIL: Reemplaza 'tu-usuario' -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tu-usuario/count.svg" alt="Contador de vistas de perfil" />
+  <img src="https://profile-counter.glitch.me/OrphanDev/count.svg" alt="Contador de vistas de perfil" />
 </p>
 
 ---
