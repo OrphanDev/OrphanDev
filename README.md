@@ -17,11 +17,18 @@
 
 ### 💡 About Me
 
-*   🚀 Apasionado por el desarrollo de software y la resolución de problemas.
-*   🛠️ Enfocado en construir bases de datos eficientes y lógica de servidor sólida.
-*   📚 Aprendiendo constantemente nuevas tecnologías y herramientas para optimizar flujos de trabajo.
+*   🚀 Passionate about software development and problem-solving.
+*   🛠️ Focused on building efficient databases and robust server logic.
+*   📚 Constantly learning new technologies and tools to optimize workflows.
 
 ---
+### 🌐 Languages I speak
+
+```text
+ ES Spanish  ███████████████████████ Native
+ GB English  ████████████░░░░░░░░░░░ B1 - Intermediate
+ FR French   ████████████░░░░░░░░░░░ B1 - Intermediate 
+ ```
 
 ### 🌟 Core Skills
 
