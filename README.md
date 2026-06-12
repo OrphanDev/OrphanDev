@@ -67,7 +67,7 @@
 ### 🏆 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.url/api?username=OrphanDev&show_icons=true&locale=en&theme=dark" alt="" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrphanDev&show_icons=true&locale=en&theme=dark" alt="" height="150px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrphanDev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa&date_format=j%20M%5B%20Y%5D" height="165px" alt="" />
 </div>
 
@@ -76,9 +76,8 @@
 ### 📊 Github Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.url/api/top-langs?username=OrphanDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrphanDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="" height="150px" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
