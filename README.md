@@ -1,4 +1,4 @@
-<!-- ESTO ES UN COMENTARIO: Este archivo debe ir en un repo con tu nombre de usuario. -->
+<!-- ESTO ES UN COMENTARIO: Este archivo debe ir en un repo con tu nombre de usuario -->
 <!-- Ejemplo: github.com/OrphanDev/OrphanDev/README.md  -->
 
 <div align="center">
