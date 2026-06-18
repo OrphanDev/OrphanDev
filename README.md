@@ -88,7 +88,7 @@
   <a href="https://github.com/OrphanDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="" /></a>
 </p>
 
-<!-- CONTADOR DE VISTAS ESTILO BADGE (Limpio y nunca se rompe). -->
+<!-- CONTADOR DE VISTAS ESTILO BADGE (Limpio y nunca se rompe) -->
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-100000?style=flat-square&logo=github&labelColor=24292e&color=4c1d95" alt="" />
 </p>
